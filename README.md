@@ -72,6 +72,7 @@ support target and then heuristically identifies and segments other identical-cl
     <img src="assets/application-results.png" width=800></br>
     Fig.5. Application of fast interactive segmentation using our proposed ICODet.
 </p>
-2). Video results
+2). Video results  
+
 <!-- Add a video here -->
 [![Video Name](assets/application-vis.png)](https://github.com/zhilyzhang/ICODet/assets/37032932/11238aab-a594-48d2-9af8-939500a11678)
