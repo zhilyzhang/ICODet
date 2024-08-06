@@ -28,7 +28,7 @@ network (ICODet) for detecting objects of the same class at the regional/image l
 
 <p align="center">
     <img src="assets/our_network.bmp" width=800></br>
-    Fig.2. The framework of the proposed ICODet for remote sensing image interactive segmentation.
+    Fig.2. The framework of the proposed identical-class object detection network (ICODet) for remote sensing image interactive segmentation. FSCM: Feature Similarity Comparison Module.
 </p>
 
 
@@ -54,12 +54,12 @@ We compared our proposed method with four recent few-shot object detection metho
 Object Detection (ICOD) task. These four methods were appropriately modified and adjusted to suit the ICOD work.
 <p align="center">
     <img src="assets/ICODet-buiding-results.png" width=800></br>
-    Fig.3. Visualization of different methods on the EVLab building dataset.
+    Fig.3. Visualization of different methods on the EVLab building dataset. In the prediction results, yellow boxes indicate true positives (TP), red boxes indicate false positives (FP), and blue boxes indicate false negatives (FN)
 </p>
 
 <p align="center">
     <img src="assets/ICODet-dota-results.png" width=800></br>
-    Fig.4. Visualization of different methods on the DOTA2.0 dataset.
+    Fig.4. Visualization of different methods on the DOTA dataset. In the prediction results, yellow boxes indicate true positives (TP), red boxes indicate false positives (FP), and blue boxes indicate false negatives (FN)
 </p>
 
 ## 4. Application of faster interactive segmentation
