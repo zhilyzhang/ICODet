@@ -14,7 +14,7 @@ Then, the IS model is applied for precise segmentation of all the boxed targets.
 are made for the few targets in the segmentation results that require optimization.   
 
 <p align="center">
-    <img src="assets/scheme.png" width=800></br>
+    <img src="assets/schemev2.png" width=800></br>
     Fig.1.  A novel heuristic scheme for faster interactive segmentation of all buildings simultaneously. 
 The proposed ICODet rapidly detects all objects of the identical class (highlighted with yellow dotted-lineboxes)
 in images, guided by a support object with its mask. 
